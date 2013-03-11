@@ -1,0 +1,7 @@
+
+0) package for brew, and submit
+1) assert args are present
+2) BCC, attachments
+3) make robust, handle email failure, etc
+4) allow for other email providers aside from mailgun
+5) test suite
