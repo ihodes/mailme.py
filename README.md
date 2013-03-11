@@ -1,3 +1,5 @@
+# MailMe dot Py
+
 Sometimes you just want to email a little something to yourself, or whoever, from your command line. And you can do that, but it's kinda more than you want to deal with. 
 
 For those occastions, there's mailme.py.
@@ -8,6 +10,8 @@ Simple usage: `mailme "hello, mailbox"` will send "hello, mailbox" to your email
 (NB: For now, out of the box mailme only supports [Mailgun](http://mailgun.com/). That's easy enough to change.)
 
 ---
+
+## Usage
 
 Stick your configuration in `~/.mailme/config`:
 
