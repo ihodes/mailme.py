@@ -4,12 +4,9 @@ Sometimes you just want to email a little something to yourself, or whoever, fro
 
 For those occastions, there's mailme.py.
 
-Simple usage: `mailme "hello, mailbox"` will send "hello, mailbox" to your email address. Done.
-
+Simple usage: `mailme "Hello, Mailbox!"` will send "Hello, Mailbox!" to your email address. Done.
 
 (NB: For now, out of the box mailme only supports [Mailgun](http://mailgun.com/). That's easy enough to change.)
-
----
 
 ## Usage
 
