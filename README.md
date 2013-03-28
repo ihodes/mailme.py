@@ -1,6 +1,6 @@
 # MailMe dot Py
 
-Sometimes you just want to email a little something to yourself, or whoever, from your command line. And you can do that, but it's kinda more than you want to deal with. 
+Sometimes you just want to email a little something to yourself, or whoever, from your command line. And you can do that, but it's kinda more than you want to deal with (`mutt`), or it's going to be caught in your spam filter (`mail`). 
 
 For those occastions, there's mailme.py.
 
